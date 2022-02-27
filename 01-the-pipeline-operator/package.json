@@ -1,0 +1,20 @@
+{
+  "name": "01-the-pipeline-operator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-the-pipeline-operator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel 01-the-pipeline-operator.js -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/plugin-proposal-pipeline-operator": "^7.17.6",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "dependencies": {}
+}
