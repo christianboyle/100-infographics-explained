@@ -1,0 +1,24 @@
+{
+  "name": "100-infographics-explained",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02-the-exponentiation-operator.js",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianboyle/100-infographics-explained.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianboyle/100-infographics-explained/issues"
+  },
+  "homepage": "https://github.com/christianboyle/100-infographics-explained#readme"
+}

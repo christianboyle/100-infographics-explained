@@ -13,7 +13,8 @@
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
-    "@babel/plugin-proposal-pipeline-operator": "^7.17.6"
+    "@babel/plugin-proposal-pipeline-operator": "^7.17.6",
+    "@babel/preset-env": "^7.16.11"
   },
   "dependencies": {}
 }

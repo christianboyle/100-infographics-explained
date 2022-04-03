@@ -4,5 +4,6 @@
       "@babel/plugin-proposal-pipeline-operator",
       { "proposal": "hack", "topicToken": "^" }
     ]
-  ]
+  ],
+  "presets": ["@babel/preset-env"]
 }
