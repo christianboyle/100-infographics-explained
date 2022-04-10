@@ -35,4 +35,4 @@ console.log(startThennable())
 
 console.log(isNotThennable(5))
 // not thennable, normal function
-// undefined
+// 25
