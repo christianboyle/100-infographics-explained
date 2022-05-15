@@ -1,4 +1,4 @@
-// thttps://www.digitalocean.com/community/tutorials/4-uses-of-javascripts-arraymap-you-should-know
+// https://www.digitalocean.com/community/tutorials/4-uses-of-javascripts-arraymap-you-should-know
 
 const firstArray = [2, 3, 4, 5, 35]
 
