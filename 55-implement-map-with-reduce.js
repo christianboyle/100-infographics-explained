@@ -1,3 +1,5 @@
+// https://stackoverflow.com/a/50207929s
+
 const items = [
   {
     id: 1,
@@ -16,7 +18,7 @@ let input = 'laptop',
 
 const map = (array, callback) =>
   array.reduce((accumulator, currentElement, index) => {
-    accumulator.push(callback(currentElement, index, currentElement))
+    accumulator.push(callback(currentElement, index))
 
     return accumulator
   }, [])
